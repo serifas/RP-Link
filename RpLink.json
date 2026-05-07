@@ -1,13 +1,13 @@
 [
     {
     "Author": "serifas",
-    "Name": "RPLink",
+    "Name": "RpLink",
     "Punchline": "Share your real appearance and house mods with others",
     "Description": "Share your real appearance and house mods with others.",
-    "InternalName": "RPLink",
-    "AssemblyVersion": "1.11.3.2",
-    "TestingAssemblyVersion": "1.11.3.2",
-    "RepoUrl": "https://github.com/serifas/ForFun",
+    "InternalName": "RpLink",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/serifas/RP-Link",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
@@ -18,10 +18,10 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/serifas/ForFun/refs/RP-Link/main/images/icon.png",
     "Tags": [
         "Sync"
     ]
