@@ -1,13 +1,13 @@
 [
     {
     "Author": "serifas",
-    "Name": "RPLink",
+    "Name": "RpLink",
     "Punchline": "Share your real appearance and house mods with others",
     "Description": "Share your real appearance and house mods with others.",
-    "InternalName": "RPLink",
+    "InternalName": "RpLink",
     "AssemblyVersion": "1.11.3.2",
     "TestingAssemblyVersion": "1.11.3.2",
-    "RepoUrl": "https://github.com/serifas/ForFun",
+    "RepoUrl": "https://github.com/serifas/RP-Link",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
