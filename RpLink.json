@@ -21,7 +21,7 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/serifas/ForFun/refs/RP-Link/main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/images/icon.png",
     "Tags": [
         "Sync"
     ]
