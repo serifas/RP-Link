@@ -1,27 +1,29 @@
-{
-  "Author": "RpLink Team",
-  "Name": "RpLink",
-  "InternalName": "RpLink",
-  "AssemblyVersion": "0.0.0.4",
-  "Description": "RpLink allows you to synchronize your mods with other players. Supports player and housing mods.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "",
-  "Tags": [
-    "sync",
-    "mods",
-    "penumbra",
-    "glamourer",
-    "multiplayer"
-  ],
-  "CategoryTags": [
-    "other"
-  ],
-  "DalamudApiLevel": 15,
-  "LoadRequiredState": 1,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/aethersync/aethersync/main/Images/rplink.png",
-  "Punchline": "Sync your mods with other players.",
-  "AcceptsFeedback": true
-}
+[
+    {
+    "Author": "serifas",
+    "Name": "RpLink",
+    "Punchline": "Share your real appearance and house mods with others",
+    "Description": "Share your real appearance and house mods with others.",
+    "InternalName": "RpLink",
+    "AssemblyVersion": "0.0.0.4",
+    "TestingAssemblyVersion": "0.0.0.4",
+    "RepoUrl": "https://github.com/serifas/RP-Link",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 1755942406,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/serifas/RP-Link/refs/heads/main/images/icon.png",
+    "Tags": [
+        "Sync"
+    ]
+  }    
+]
